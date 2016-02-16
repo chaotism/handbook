@@ -13,7 +13,7 @@
 
 ## БЭКЕНД PYTHON:
 
-### Про Pyhon:
+### Про Python:
 
 * yolk замена pip
 * wheels замена eggs 
