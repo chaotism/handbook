@@ -72,7 +72,7 @@
 * незабыть про factory-boy как замена фикстур
 * http://www.slideshare.net/JetStyle/python-django-16824866
 
-### Про магизины Магазин (e-commerce)
+### Про магазины Магазин (e-commerce)
 * в кратце все плохо, живой только oscar или мутить что-то на django-cms или велопиедить на django
 * http://www.django-cms.org/en/
 * http://oscarcommerce.com/
