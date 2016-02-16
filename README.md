@@ -121,7 +121,6 @@
 ## ФРОНТ:
 * https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймворков на js
 
-
 ### производительность:
 * http://habrahabr.ru/post/264639/  about:tracking мониторим производительность в chorme
 * http://habrahabr.ru/company/paysto/blog/254619/ основные ловушки при использование кэша в html5 приложениях
@@ -133,6 +132,7 @@
 * http://learn.javascript.ru/ учебник онлайн
 * http://habrahabr.ru/company/plarium/blog/270353/ es6
 * http://shamansir.github.io/JavaScript-Garden/ грабли при использовании javascript
+* https://habrahabr.ru/company/mailru/blog/233553/ ещё грабли при javacript
 * http://habrahabr.ru/post/246349/ yeoman как сборщик
 * http://habrahabr.ru/post/120192/  фишки под Js (устаревшее)
 * http://habrahabr.ru/post/52201/ jquery наше все
