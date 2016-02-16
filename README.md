@@ -1,4 +1,4 @@
-# Перечень статей для самообразования/заглянуть обновить данные
+# Перечень статей для самообразования/заглянуть обновить данные
 
 ### Общее:
 
@@ -22,7 +22,7 @@
 
 * [питон на хабре сборник ссылок](http://habrahabr.ru/post/205944/) 
 * [грабли и уловки python](http://idzaaus.org/static/files/articles/Python_Tips,_Tricks,_and Hacks_(rus).pdf) 
-* [как устроин GIL в python](https://habrahabr.ru/post/84629/)  
+* [как устроен GIL в python](https://habrahabr.ru/post/84629/)  
 * [потоки просто](http://habrahabr.ru/post/260431/) 
 * [приколы с eval](http://habrahabr.ru/post/260431/) 
 * [wheels как замена eggs](http://habrahabr.ru/post/210450/) 
@@ -36,12 +36,12 @@
 ### Заметки про python на android:
 
 #### sl4a:
-* https://xakep.ru/2011/08/18/56526/ -простенькая програмка
+* https://xakep.ru/2011/08/18/56526/ -простенькая программка
 * http://habrahabr.ru/post/122188/ средняя программка
 * http://www.ibm.com/developerworks/ru/library/mo-python-sl4a-1/
 
 ####kivy:
-* https://habrahabr.ru/post/149898/  сделаное приложение для фотографий
+* https://habrahabr.ru/post/149898/  приложение для фотографий на kivy
 
 #### альтернатива в виде pygame:
 * http://games.renpy.org/ фреймворк для создания визуальных новел
@@ -57,7 +57,7 @@
 
 ### Про Flask:
 #### Фласк говно:
-* http://asvetlov.blogspot.ru/2014/10/flask_20.html в кратце — херовые рутины, глобальные singletone в виде импортов
+* http://asvetlov.blogspot.ru/2014/10/flask_20.html в кратце — неудобные рутины, глобальный singletone в виде app
 #### Фласк наше все:
 * http://habrahabr.ru/post/234785/ учебник
 
@@ -69,11 +69,11 @@
 * http://habrahabr.ru/post/244009/ selenium + django webtest
 * http://habrahabr.ru/post/141209/ mock objects 
 * http://kmike.ru/django-functional-testing-ru/ функциональное тестирование джанги
-* незабыть про factory-boy как замена фикстур
+* не забыть про factory-boy как замена фикстур
 * http://www.slideshare.net/JetStyle/python-django-16824866
 
 ### Про магазины Магазин (e-commerce)
-* в кратце все плохо, живой только oscar или мутить что-то на django-cms или велопиедить на django
+* в кратце все плохо, живой только oscar или мутить что-то на django-cms или велосипедить на django
 * http://www.django-cms.org/en/
 * http://oscarcommerce.com/
 
@@ -92,7 +92,7 @@
 * фикс под vmware, чтобы видеть bios  http://www.howtogeek.com/howto/16876/how-to-increase-the-vmware-boot-screen-delay/ 
 
 ### docker
-* http://eax.me/docker/ вводная, в краце легче виртуалок, но ебля с адресами()
+* http://eax.me/docker/ вводная, в кратце легче виртуалок, но ебля с адресами()
 * http://habrahabr.ru/post/253877/ понимая докер
 * http://habrahabr.ru/post/234829/ оптимизация образов (быть внимательным с весом образов при удалить добавить файлы)
 * http://habrahabr.ru/post/261415/ свой облачный сервис на ansible и docker swarm(удобно мониторить и управлять контейнерами)
@@ -119,7 +119,7 @@
 * http://habrahabr.ru/post/204354/ шпаргалка по redis
 
 ## ФРОНТ:
-* https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймоврков на js
+* https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймворков на js
 
 
 ### производительность:
@@ -136,7 +136,7 @@
 * http://habrahabr.ru/post/246349/ yeoman как сборщик
 * http://habrahabr.ru/post/120192/  фишки под Js (устаревшее)
 * http://habrahabr.ru/post/52201/ jquery наше все
-* http://habrahabr.ru/post/175283/ 24 совета, на некосячить
+* http://habrahabr.ru/post/175283/ 24 совета, про не накосячить
 * http://habrahabr.ru/post/249525/ ошибки в js 
 * http://myway-blog.ru/javascript-data-storage/ хранения данных на фронте session localstorage
 
