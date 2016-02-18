@@ -99,6 +99,7 @@
 * http://habrahabr.ru/post/261415/ свой облачный сервис на ansible и docker swarm(удобно мониторить и управлять контейнерами)
 * https://habrahabr.ru/post/263083/ docker compose - сборка билдов под докер.
 * https://habrahabr.ru/company/1cloud/blog/275015/ сборник материалов по docker
+* https://habrahabr.ru/post/272145/ графическое представление образов и контейнеров
 
 ### nginx:
 #### разные варианты деплоя (устаревшее )
