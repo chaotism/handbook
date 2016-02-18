@@ -9,6 +9,7 @@
 * [паттерны в метафорах](https://habrahabr.ru/post/136766/)  
 * [спискота книг по мнению mail.ru](http://habrahabr.ru/company/mailru/blog/265103/) 
 * [процесс перехода на сайт: от ввода теста, до получения ответа](http://habrahabr.ru/company/htmlacademy/blog/254825/) 
+* [очередная заметка про тру рест от dataart](https://habrahabr.ru/company/dataart/blog/277419/) 
 
 
 ## БЭКЕНД PYTHON:
