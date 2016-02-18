@@ -97,6 +97,7 @@
 * http://habrahabr.ru/post/234829/ оптимизация образов (быть внимательным с весом образов при удалить добавить файлы)
 * http://habrahabr.ru/post/261415/ свой облачный сервис на ansible и docker swarm(удобно мониторить и управлять контейнерами)
 * https://habrahabr.ru/post/263083/ docker compose - сборка билдов под докер.
+* https://habrahabr.ru/company/1cloud/blog/275015/ сборник материалов по docker
 
 ### nginx:
 #### разные варианты деплоя (устаревшее )
