@@ -63,7 +63,6 @@
 * http://habrahabr.ru/post/234785/ учебник
 
 ### Про Django:
-* https://habrahabr.ru/post/264269/ Мутим свой облачный сервис на linux docker django:
 * https://habrahabr.ru/post/274931/ Сквозная аунтефикация
 
 ###Тестирование:
