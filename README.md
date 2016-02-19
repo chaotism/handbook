@@ -100,6 +100,7 @@
 * https://habrahabr.ru/post/263083/ docker compose - сборка билдов под докер.
 * https://habrahabr.ru/company/1cloud/blog/275015/ сборник материалов по docker
 * https://habrahabr.ru/post/272145/ графическое представление образов и контейнеров
+* https://xakep.ru/2015/06/04/docker-faq/ большой фак от хакера
 
 ### nginx:
 #### разные варианты деплоя (устаревшее )
