@@ -126,6 +126,7 @@
 
 ## ФРОНТ:
 * https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймворков на js
+* https://habrahabr.ru/company/it-grad/blog/275673/ разные ресурсы на тему фронта
 
 ### производительность:
 * http://habrahabr.ru/post/264639/  about:tracking мониторим производительность в chorme
@@ -169,6 +170,7 @@
 
 ###nodejs
 * http://habrahabr.ru/company/mailru/blog/255895/ ошибки в разработке на ноде
+* https://habrahabr.ru/company/Voximplant/blog/277707/ правильное поведение при работе с нодой
 
 ## Вопросы по собеседованиям:
 
