@@ -125,6 +125,7 @@
 * http://habrahabr.ru/post/204354/ шпаргалка по redis
 
 ## ФРОНТ:
+* https://egghead.io/ ресурс с обучающими роликами на языке Шекспира
 * https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймворков на js
 * https://habrahabr.ru/company/it-grad/blog/275673/ разные ресурсы на тему фронта
 
