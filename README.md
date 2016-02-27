@@ -4,7 +4,7 @@
 
 * [Куча, хэш, списки](https://habrahabr.ru/post/263765) 
 * [оценка сложностей алгоритмов](https://habrahabr.ru/post/196226/)   
-* [Алгоритмы и типы данных в популярных программах] https://habrahabr.ru/company/wunderfund/blog/277143/
+* [Алгоритмы и типы данных в популярных программах](https://habrahabr.ru/company/wunderfund/blog/277143/)
 * [Набор шпаргалок](http://habrahabr.ru/post/254585/)  
 * [паттерны в метафорах](https://habrahabr.ru/post/136766/)  
 * [спискота книг по мнению mail.ru](http://habrahabr.ru/company/mailru/blog/265103/) 
