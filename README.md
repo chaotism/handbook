@@ -78,6 +78,22 @@
 * http://www.django-cms.org/en/
 * http://oscarcommerce.com/
 
+
+## БЭКЕНД НА GO:
+
+### Сам GO:
+* http://golang-book.ru/ учебник на GO
+* https://xakep.ru/2011/05/23/55752/ знакомимся с go
+* https://habrahabr.ru/post/277987/ go глазами пыхаря
+* https://habrahabr.ru/post/269817/ go хорошо продуманный язык
+* https://habrahabr.ru/post/269731/ антитеза go плохо продуманный язык
+* https://habrahabr.ru/post/277137/ go sync pool(сборка мусора)
+* https://habrahabr.ru/post/276981/ краш тест по интерфейсам
+
+### Полезные фреймворки
+* https://github.com/RichardKnop/machinery - замена celery на го
+
+
 ## DEVOPS:
 
 * http://kurapov.name/rus/technology/unix/  Микро Шпаргалка по юниксам
@@ -260,8 +276,7 @@
 - Что значит переменная g в Flask?
 
 ### Дополнительно:
-#### Go
-* http://golang-book.ru/ учебник на GO
+#### Здесь пишем всячину, что не укладывается в предыдущие разделы.
 
 #### Проектирование, потоки?
 Ответь что такое гринлеты, Twisted, Tornado, в чём отличие мультипроцессинга от потоков, в чём их отличия в модулях Python(тест пройден если человек скажет что GIL работает в обоих случаях, а сами модули имеют одинаковый набор функций).
