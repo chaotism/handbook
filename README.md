@@ -25,6 +25,7 @@
 * [грабли и уловки python](http://idzaaus.org/static/files/articles/Python_Tips,_Tricks,_and Hacks_(rus).pdf) 
 * [как устроен GIL в python](https://habrahabr.ru/post/84629/)  
 * [потоки просто](http://habrahabr.ru/post/260431/) 
+* [процессы и потоки в виде слайдов](http://www.slideshare.net/gnomeby/gil-gil)
 * [приколы с eval](http://habrahabr.ru/post/260431/) 
 * [wheels как замена eggs](http://habrahabr.ru/post/210450/) 
 * [магические (__method__) методы](http://habrahabr.ru/post/186608/) 
