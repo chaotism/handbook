@@ -83,7 +83,8 @@
 ## БЭКЕНД НА GO:
 
 ### Сам GO:
-* http://golang-book.ru/ учебник на GO
+* http://golang-book.ru/ учебник про GO
+* http://gobyexample.ru/mutexes.html go на примерах (есть тру оригинал .com) данная ссылка на мьютексы
 * https://xakep.ru/2011/05/23/55752/ знакомимся с go
 * https://habrahabr.ru/post/277987/ go глазами пыхаря
 * https://habrahabr.ru/post/269817/ go хорошо продуманный язык
