@@ -186,6 +186,7 @@
 * https://habrahabr.ru/post/230761/ не стреляем по ногам 
 * http://habrahabr.ru/company/infopulse/blog/262389/   ускоряем ангуляр 
 * http://habrahabr.ru/post/269827/    ускоряем ангуляр 
+* https://angular.io/docs/ts/latest/cookbook/a1-a2-quick-reference.html быстрый переезд с 1 ангуляра на 2ой
 
 ###nodejs
 * http://habrahabr.ru/company/mailru/blog/255895/ ошибки в разработке на ноде
