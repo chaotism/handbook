@@ -23,6 +23,9 @@
 
 * [питон на хабре сборник ссылок](http://habrahabr.ru/post/205944/) 
 * [грабли и уловки python](http://idzaaus.org/static/files/articles/Python_Tips,_Tricks,_and Hacks_(rus).pdf) 
+* [http://hlabs.org/development/python/pro_python.html]("сложности в Pyhon")
+* [https://habrahabr.ru/post/123216/](дескрипторы)
+* [https://www.python.org/dev/peps/pep-0318/#examples](декораторы)
 * [как устроен GIL в python](https://habrahabr.ru/post/84629/)  
 * [потоки просто](http://habrahabr.ru/post/260431/) 
 * [процессы и потоки в виде слайдов](http://www.slideshare.net/gnomeby/gil-gil)
