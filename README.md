@@ -26,7 +26,7 @@
 * [питон на хабре сборник ссылок](http://habrahabr.ru/post/205944/) 
 * [грабли и уловки python](http://idzaaus.org/static/files/articles/Python_Tips,_Tricks,_and Hacks_(rus).pdf) 
 * [http://hlabs.org/development/python/pro_python.html]("сложности в Python")
-* [https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_Python] википедия про функциональщину на python
+* [https://ru.wikipedia.org/wiki/%D0%A4%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%BC%D0%BC%D0%B8%D1%80%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D0%B5_%D0%BD%D0%B0_Python](википедия про функциональщину на python)
 * [https://habrahabr.ru/post/123216/](дескрипторы)
 * [https://www.python.org/dev/peps/pep-0318/#examples](декораторы)
 * [как устроен GIL в python](https://habrahabr.ru/post/84629/)  
