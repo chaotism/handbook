@@ -157,6 +157,7 @@
 * https://egghead.io/ ресурс с обучающими роликами на языке Шекспира
 * https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймворков на js
 * https://habrahabr.ru/company/it-grad/blog/275673/ разные ресурсы на тему фронта
+* https://habrahabr.ru/post/245991/ статья про webpack
 
 ### производительность:
 * http://habrahabr.ru/post/264639/  about:tracking мониторим производительность в chorme
