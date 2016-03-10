@@ -39,6 +39,12 @@
 * [профилирование python](http://habrahabr.ru/company/mailru/blog/201778/) 
 
 
+### Сборка
+* http://klen.github.io/create-python-packages.html делаем установку через setup.py
+* https://habrahabr.ru/post/226589/ про колеса
+* https://habrahabr.ru/post/210450/ подробнее про колёса
+* https://habrahabr.ru/post/172219/ общее про выкладку
+
 ### Заметки про python на android:
 
 #### sl4a:
