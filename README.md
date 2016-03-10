@@ -3,7 +3,7 @@
 ### Общее:
 
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
-* [настраиваем башъ(https://habrahabr.ru/post/31326/)
+* [настраиваем баш](https://habrahabr.ru/post/31326/)
 * [Куча, хэш, списки](https://habrahabr.ru/post/263765) 
 * [оценка сложностей алгоритмов](https://habrahabr.ru/post/196226/)   
 * [Алгоритмы и типы данных в популярных программах](https://habrahabr.ru/company/wunderfund/blog/277143/)
@@ -96,6 +96,7 @@
 ### Сам GO:
 * http://golang-book.ru/ учебник про GO
 * http://gobyexample.ru/mutexes.html go на примерах (есть тру оригинал .com) данная ссылка на мьютексы
+* http://4gophers.ru/ тулзовины и хреновины
 * https://xakep.ru/2011/05/23/55752/ знакомимся с go
 * https://habrahabr.ru/post/272383/ постулаты go
 * https://habrahabr.ru/post/277987/ go глазами пыхаря
