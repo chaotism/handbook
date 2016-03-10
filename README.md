@@ -2,6 +2,7 @@
 
 ### Общее:
 
+* [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 * [Куча, хэш, списки](https://habrahabr.ru/post/263765) 
 * [оценка сложностей алгоритмов](https://habrahabr.ru/post/196226/)   
 * [Алгоритмы и типы данных в популярных программах](https://habrahabr.ru/company/wunderfund/blog/277143/)
