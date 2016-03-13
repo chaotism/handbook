@@ -70,6 +70,10 @@
 * https://habrahabr.ru/post/230607/ Хостинг картинок
 * https://habrahabr.ru/post/270709/ Python 3.5 async await yield from и движок motor по mongodb
 
+###Greenlets
+* http://www.slideshare.net/andreypopp/report-4114331 презентация gevent
+* https://habrahabr.ru/post/174717/ django greenlets connections pool
+
 ### Про Flask:
 #### Фласк говно:
 * http://asvetlov.blogspot.ru/2014/10/flask_20.html в кратце — неудобные рутины, глобальный singletone в виде app
