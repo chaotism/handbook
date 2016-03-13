@@ -154,9 +154,10 @@
 * https://habrahabr.ru/post/268949/ в защиту mysql
 
 ### NOSQL:
-* redis:
+#### redis:
 * https://habrahabr.ru/post/271487/ под капотом redis
 * http://habrahabr.ru/post/204354/ шпаргалка по redis
+#### mongodb
 
 ## ФРОНТ:
 * https://egghead.io/ ресурс с обучающими роликами на языке Шекспира
