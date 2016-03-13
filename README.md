@@ -63,6 +63,7 @@
 ### Старые заметки по celery:
 * http://habrahabr.ru/post/123902/ Просто вкорячим асинхронные задачи
 * http://habrahabr.ru/post/158961/ RabbitMQ с Celery и без
+* https://habrahabr.ru/post/149694/ RabbitMQ
 
 ###Заметки по торнадо:
 * https://habrahabr.ru/post/252575/ многопользовательский шутаган на asyncio
