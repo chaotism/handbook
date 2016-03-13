@@ -9,10 +9,10 @@
 * [Алгоритмы и типы данных в популярных программах](https://habrahabr.ru/company/wunderfund/blog/277143/)
 * [Набор шпаргалок](http://habrahabr.ru/post/254585/)  
 * [паттерны в метафорах](https://habrahabr.ru/post/136766/)  
-* [спискота книг по мнению mail.ru](http://habrahabr.ru/company/mailru/blog/265103/) 
 * [процесс перехода на сайт: от ввода теста, до получения ответа](http://habrahabr.ru/company/htmlacademy/blog/254825/) 
 * [очередная заметка про тру рест от dataart](https://habrahabr.ru/company/dataart/blog/277419/) 
-
+* [спискота книг по мнению mail.ru](http://habrahabr.ru/company/mailru/blog/265103/) 
+* [набор видео материалов с библиотека программиста](http://vk.com/page-54530371_48968741)
 
 ## БЭКЕНД PYTHON:
 
