@@ -4,6 +4,7 @@
 
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 * [настраиваем баш](https://habrahabr.ru/post/31326/)
+* [упрощаем разработку - разные тулзы на python](http://slides.com/gr1n/pythonforlazy)
 * [Куча, хэш, списки](https://habrahabr.ru/post/263765) 
 * [оценка сложностей алгоритмов](https://habrahabr.ru/post/196226/)   
 * [Алгоритмы и типы данных в популярных программах](https://habrahabr.ru/company/wunderfund/blog/277143/)
