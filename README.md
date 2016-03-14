@@ -65,6 +65,7 @@
 * http://habrahabr.ru/post/123902/ Просто вкорячим асинхронные задачи
 * http://habrahabr.ru/post/158961/ RabbitMQ с Celery и без
 * https://habrahabr.ru/post/149694/ RabbitMQ
+* http://www.slideshare.net/MinskPythonMeetup/stdlib-celery-rq celery rq свой велосипед через multiprocessing
 
 ###Заметки по торнадо:
 * https://habrahabr.ru/post/252575/ многопользовательский шутаган на asyncio
