@@ -39,6 +39,7 @@
 * [магические (__method__) методы](http://habrahabr.ru/post/186608/) 
 * [путь для абсолютного импорта модуля в python2 импортим с __future__](http://stackoverflow.com/questions/67631/how-to-import-a-module-given-the-full-path) 
 * [pep8 автоформатирование](http://habrahabr.ru/post/251531/) 
+* [список основных магичиских методов](https://habrahabr.ru/post/186608/)
 * [питон алгоритмы, структура данных учебник](http://aliev.me/runestone/) 
 * [профилирование python](http://habrahabr.ru/company/mailru/blog/201778/) 
 
