@@ -166,6 +166,8 @@ socketio и sockjs
 * http://habrahabr.ru/post/64851/ обзор движков mysql 
 * http://habrahabr.ru/post/263541/ Postgresql приемы на продакшене
 * https://habrahabr.ru/post/268949/ в защиту mysql
+* https://habrahabr.ru/post/160485/ как создать deadlock в mysql (sharred+exclusive+exclusive)
+* https://habrahabr.ru/post/238513/ еще про блокировки
 
 ### NOSQL:
 #### redis:
