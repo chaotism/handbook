@@ -68,6 +68,12 @@
 * https://habrahabr.ru/post/149694/ RabbitMQ
 * http://www.slideshare.net/MinskPythonMeetup/stdlib-celery-rq celery rq свой велосипед через multiprocessing
 
+###Заметки по websockets:
+socketio и sockjs
+* https://habrahabr.ru/post/211094/ Django + websockets 
+* https://habrahabr.ru/post/248507/ tornado + websockets
+* https://habrahabr.ru/post/149592/ грабли при внедрении websokets 
+
 ###Заметки по торнадо:
 * https://habrahabr.ru/post/252575/ многопользовательский шутаган на asyncio
 * https://habrahabr.ru/post/230607/ Хостинг картинок
