@@ -191,7 +191,11 @@ socketio и sockjs
 * https://habrahabr.ru/post/231071/ вопросы для собеседований
 * https://habrahabr.ru/post/253033/ более свежие
 * http://learn.javascript.ru/ учебник онлайн
-* http://habrahabr.ru/company/plarium/blog/270353/ es6
+* * http://habrahabr.ru/company/plarium/blog/270353/ es6
+* http://dmitrysoshnikov.com/ecmascript/ru-javascript-the-core/ устройство ядра js
+* https://habrahabr.ru/company/hexlet/blog/266443/ как работают замыкания под капотом
+* https://habrahabr.ru/post/279421/ как работают замыкания
+* https://habrahabr.ru/post/279733/ как работает this
 * http://shamansir.github.io/JavaScript-Garden/ грабли при использовании javascript
 * https://habrahabr.ru/company/mailru/blog/233553/ ещё грабли при javacript
 * http://habrahabr.ru/post/246349/ yeoman как сборщик
