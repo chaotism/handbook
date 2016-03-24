@@ -2,6 +2,7 @@
 
 ### Общее:
 
+* [набор бесплатных видеокурсов от Mail.ru](https://habrahabr.ru/company/mailru/blog/280079/)
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 * [настраиваем баш](https://habrahabr.ru/post/31326/)
 * [упрощаем разработку - разные тулзы на python](http://slides.com/gr1n/pythonforlazy)
