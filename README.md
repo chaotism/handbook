@@ -176,6 +176,9 @@ socketio и sockjs
 * http://habrahabr.ru/post/204354/ шпаргалка по redis
 #### mongodb
 
+#### elastic search
+* https://habrahabr.ru/post/280488/ основы
+
 ## ФРОНТ:
 * https://egghead.io/ ресурс с обучающими роликами на языке Шекспира
 * https://habrahabr.ru/post/277323/ плачь  на тему количества современных фреймворков на js
