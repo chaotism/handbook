@@ -135,12 +135,14 @@ socketio и sockjs
 * http://habrahabr.ru/company/selectel/blog/270209/ изменения в 2.0
 * http://habrahabr.ru/company/infobox/blog/252461/ длинный ман
 
-### Vagrant:
+### Виртуализация
+
+#### Vagrant:
 * http://eax.me/vagrant/ начало работы с вагрант
 
 * фикс под vmware, чтобы видеть bios  http://www.howtogeek.com/howto/16876/how-to-increase-the-vmware-boot-screen-delay/ 
 
-### docker
+#### docker
 * http://eax.me/docker/ вводная, в кратце легче виртуалок, но ебля с адресами()
 * http://habrahabr.ru/post/253877/ понимая докер
 * http://habrahabr.ru/post/234829/ оптимизация образов (быть внимательным с весом образов при удалить добавить файлы)
@@ -151,6 +153,12 @@ socketio и sockjs
 * https://xakep.ru/2015/06/04/docker-faq/ большой фак от хакера
 * https://habrahabr.ru/post/277699/ тезисы для битвы софистов в бою "докер это круто"
 * https://habrahabr.ru/company/centosadmin/blog/278939/ набор юного админа докер платформы
+
+#### lxc
+
+https://www.suse.com/documentation/sles11/singlehtml/lxc_quickstart/lxc_quickstart.html quick start
+https://habrahabr.ru/company/centosadmin/blog/202482/ опыт-баги-настройка
+
 
 ### nginx:
 #### разные варианты деплоя (устаревшее )
