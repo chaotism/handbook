@@ -158,8 +158,8 @@ socketio и sockjs
 
 #### lxc
 
-https://www.suse.com/documentation/sles11/singlehtml/lxc_quickstart/lxc_quickstart.html quick start
-https://habrahabr.ru/company/centosadmin/blog/202482/ опыт-баги-настройка
+* https://www.suse.com/documentation/sles11/singlehtml/lxc_quickstart/lxc_quickstart.html quick start
+* https://habrahabr.ru/company/centosadmin/blog/202482/ опыт-баги-настройка
 
 
 ### nginx:
@@ -172,6 +172,7 @@ https://habrahabr.ru/company/centosadmin/blog/202482/ опыт-баги-наст
 * http://habrahabr.ru/post/272381/ готовые конфиги
 
 ### SQL:
+* https://habrahabr.ru/post/280912/ postgresql приемы
 * http://habrahabr.ru/company/mailru/blog/266811/ как работает реляционная база данных
 * http://habrahabr.ru/post/272373/ tsql для игры в судоку
 * http://habrahabr.ru/post/64851/ обзор движков mysql 
