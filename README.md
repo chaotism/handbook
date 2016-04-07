@@ -172,6 +172,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/272381/ готовые конфиги
 
 ### SQL:
+* https://habrahabr.ru/post/281036/ postgresql подробности explain
 * https://habrahabr.ru/post/280912/ postgresql приемы
 * http://habrahabr.ru/company/mailru/blog/266811/ как работает реляционная база данных
 * http://habrahabr.ru/post/272373/ tsql для игры в судоку
