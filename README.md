@@ -16,6 +16,7 @@
 * [спискота книг по мнению mail.ru](http://habrahabr.ru/company/mailru/blog/265103/) 
 * [набор видео материалов с библиотека программиста](http://vk.com/page-54530371_48968741)
 * [Unix сокеты](https://habrahabr.ru/post/280668/)
+* [linux pipelines](https://habrahabr.ru/post/195152/)
 * [Бесплатные сервисы](https://habrahabr.ru/post/271279/)
 
 ## БЭКЕНД PYTHON:
