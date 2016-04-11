@@ -156,6 +156,7 @@ socketio и sockjs
 * https://xakep.ru/2015/06/04/docker-faq/ большой фак от хакера
 * https://habrahabr.ru/post/277699/ тезисы для битвы софистов в бою "докер это круто"
 * https://habrahabr.ru/company/centosadmin/blog/278939/ набор юного админа докер платформы
+* https://habrahabr.ru/post/280786/ статья про микросервисы
 
 #### lxc
 
