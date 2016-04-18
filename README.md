@@ -19,6 +19,7 @@
 * [linux pipelines](https://habrahabr.ru/post/195152/)
 * [утилиты мониторинга линукса](https://habrahabr.ru/company/ua-hosting/blog/281519/)
 * [Бесплатные сервисы](https://habrahabr.ru/post/271279/)
+* [Мониторим облака](https://habrahabr.ru/company/it-grad/blog/281801/)
 
 ## БЭКЕНД PYTHON:
 
