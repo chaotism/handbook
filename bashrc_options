@@ -1,0 +1,6 @@
+shopt -s histappend
+shopt -s cdspell
+shopt -s cmdhist
+export HISTCONTROL="ignoredups"
+export HISTIGNORE="&:ls:[bf]g:mc:exit"
+PROMPT_COMMAND='history -a'
