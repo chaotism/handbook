@@ -2,6 +2,7 @@
 
 ### Общее:
 
+*[книжки по сетевой безопасности](https://habrahabr.ru/company/mailru/blog/282700/)
 * [набор бесплатных видеокурсов от Mail.ru](https://habrahabr.ru/company/mailru/blog/280079/)
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 * [настраиваем баш](https://habrahabr.ru/post/31326/)
@@ -176,6 +177,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/272381/ готовые конфиги
 
 ### SQL:
+* https://habrahabr.ru/post/282764/ текущие плюсы postgresql
 * https://habrahabr.ru/post/281036/ postgresql подробности explain
 * https://habrahabr.ru/post/280912/ postgresql приемы
 * http://habrahabr.ru/company/mailru/blog/266811/ как работает реляционная база данных
