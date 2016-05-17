@@ -88,6 +88,7 @@ socketio и sockjs
 * https://habrahabr.ru/post/230607/ Хостинг картинок
 * https://habrahabr.ru/post/270709/ Python 3.5 async await yield from и движок motor по mongodb
 * https://habrahabr.ru/post/300942/ полноценный чат на aiohttp с мидлварами и моделями
+* https://habrahabr.ru/post/242541/ написание framework на asyncio, aiohttp и мысли про Python3 часть первая
 
 ###Greenlets
 * http://www.slideshare.net/andreypopp/report-4114331 презентация gevent
