@@ -2,7 +2,7 @@
 
 ### Общее:
 
-*[книжки по сетевой безопасности](https://habrahabr.ru/company/mailru/blog/282700/)
+* [книжки по сетевой безопасности](https://habrahabr.ru/company/mailru/blog/282700/)
 * [набор бесплатных видеокурсов от Mail.ru](https://habrahabr.ru/company/mailru/blog/280079/)
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 * [настраиваем баш](https://habrahabr.ru/post/31326/)
