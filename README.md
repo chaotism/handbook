@@ -66,6 +66,7 @@
 
 ####kivy:
 * https://habrahabr.ru/post/149898/  приложение для фотографий на kivy
+* https://habrahabr.ru/post/300960/ полноценное приложение на kivy
 
 #### альтернатива в виде pygame:
 * http://games.renpy.org/ фреймворк для создания визуальных новел
@@ -82,10 +83,11 @@ socketio и sockjs
 * https://habrahabr.ru/post/248507/ tornado + websockets
 * https://habrahabr.ru/post/149592/ грабли при внедрении websokets 
 
-###Заметки по торнадо:
+###Заметки по торнадо и aiohttp:
 * https://habrahabr.ru/post/252575/ многопользовательский шутаган на asyncio
 * https://habrahabr.ru/post/230607/ Хостинг картинок
 * https://habrahabr.ru/post/270709/ Python 3.5 async await yield from и движок motor по mongodb
+* https://habrahabr.ru/post/300942/ полноценный чат на aiohttp с мидлварами и моделями
 
 ###Greenlets
 * http://www.slideshare.net/andreypopp/report-4114331 презентация gevent
