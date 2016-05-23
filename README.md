@@ -191,6 +191,7 @@ socketio и sockjs
 * https://habrahabr.ru/post/268949/ в защиту mysql
 * https://habrahabr.ru/post/160485/ как создать deadlock в mysql (sharred+exclusive+exclusive)
 * https://habrahabr.ru/post/238513/ еще про блокировки
+* http://highload.guide/blog/basics_indexing.html explain в Mysql
 
 ### NOSQL:
 #### redis:
