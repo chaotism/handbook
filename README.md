@@ -102,6 +102,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/234785/ учебник
 
 ### Про Django:
+* https://khashtamov.com/2016/04/django-channels-websocket/ asgi & channel
 * https://habrahabr.ru/post/274931/ Сквозная аунтефикация
 
 ###Тестирование:
