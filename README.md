@@ -78,20 +78,20 @@
 * https://habrahabr.ru/post/149694/ RabbitMQ
 * http://www.slideshare.net/MinskPythonMeetup/stdlib-celery-rq celery rq свой велосипед через multiprocessing
 
-###Заметки по websockets:
+### Заметки по websockets:
 socketio и sockjs
 * https://habrahabr.ru/post/211094/ Django + websockets 
 * https://habrahabr.ru/post/248507/ tornado + websockets
 * https://habrahabr.ru/post/149592/ грабли при внедрении websokets 
 
-###Заметки по торнадо и aiohttp:
+### Заметки по торнадо и aiohttp:
 * https://habrahabr.ru/post/252575/ многопользовательский шутаган на asyncio
 * https://habrahabr.ru/post/230607/ Хостинг картинок
 * https://habrahabr.ru/post/270709/ Python 3.5 async await yield from и движок motor по mongodb
 * https://habrahabr.ru/post/300942/ полноценный чат на aiohttp с мидлварами и моделями
 * https://habrahabr.ru/post/242541/ написание framework на asyncio, aiohttp и мысли про Python3 часть первая
 
-###Greenlets
+### Greenlets
 * http://www.slideshare.net/andreypopp/report-4114331 презентация gevent
 * https://habrahabr.ru/post/174717/ django greenlets connections pool
 
@@ -102,10 +102,10 @@ socketio и sockjs
 * http://habrahabr.ru/post/234785/ учебник
 
 ### Про Django:
-* https://khashtamov.com/2016/04/django-channels-websocket/ asgi & channel
+* https://khashtamov.com/2016/04/django-channels-websocket/ awsgi & channel
 * https://habrahabr.ru/post/274931/ Сквозная аунтефикация
 
-###Тестирование:
+### Тестирование:
 * http://habrahabr.ru/post/248559/ selenium
 * http://habrahabr.ru/post/244009/ selenium + django webtest
 * http://habrahabr.ru/post/141209/ mock objects 
