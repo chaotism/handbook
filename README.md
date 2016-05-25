@@ -68,6 +68,7 @@
 ####kivy:
 * https://habrahabr.ru/post/149898/  приложение для фотографий на kivy
 * https://habrahabr.ru/post/300960/ полноценное приложение на kivy
+* https://habrahabr.ru/post/301776/ tracktor Сборщик под kivy
 
 #### альтернатива в виде pygame:
 * http://games.renpy.org/ фреймворк для создания визуальных новел
