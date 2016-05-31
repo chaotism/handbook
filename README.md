@@ -184,6 +184,7 @@ socketio и sockjs
 
 ### SQL:
 * https://habrahabr.ru/post/282764/ текущие плюсы postgresql
+* https://habrahabr.ru/post/302160/ текущие плюсы postgresql 2
 * https://habrahabr.ru/post/281036/ postgresql подробности explain
 * https://habrahabr.ru/post/280912/ postgresql приемы
 * http://habrahabr.ru/company/mailru/blog/266811/ как работает реляционная база данных
