@@ -2,6 +2,7 @@
 
 ### Общее:
 
+* [sicp in python](https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html)
 * [vim](https://habrahabr.ru/post/303600/)
 * [emac](https://habrahabr.ru/post/303600/)
 * [книжки по облачным техноологиям](https://habrahabr.ru/company/it-grad/blog/283400/)
