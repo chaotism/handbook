@@ -2,6 +2,7 @@
 
 ### Общее:
 
+* [cложность алгоритмов](https://habrahabr.ru/post/188010/)
 * [sicp in python](https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html)
 * [vim](https://habrahabr.ru/post/303600/)
 * [emac](https://habrahabr.ru/post/303600/)
