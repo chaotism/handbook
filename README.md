@@ -189,6 +189,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/272381/ готовые конфиги
 
 ### SQL:
+* https://habrahabr.ru/post/305926/ sql простым языком
 * https://habrahabr.ru/post/282764/ текущие плюсы postgresql
 * https://habrahabr.ru/post/302160/ текущие плюсы postgresql 2
 * https://habrahabr.ru/post/281036/ postgresql подробности explain
