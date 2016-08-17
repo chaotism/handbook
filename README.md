@@ -9,6 +9,7 @@
 * [книжки по облачным техноологиям](https://habrahabr.ru/company/it-grad/blog/283400/)
 * [книжки по сетевой безопасности](https://habrahabr.ru/company/mailru/blog/282700/)
 * [набор бесплатных видеокурсов от Mail.ru](https://habrahabr.ru/company/mailru/blog/280079/)
+* [краткая справка по bash](https://habrahabr.ru/post/47163/)
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
 * [настраиваем баш](https://habrahabr.ru/post/31326/)
 * [упрощаем разработку - разные тулзы на python](http://slides.com/gr1n/pythonforlazy)
