@@ -153,6 +153,7 @@ socketio и sockjs
 * http://habrahabr.ru/company/selectel/blog/270209/ изменения в 2.0
 * http://habrahabr.ru/company/infobox/blog/252461/ длинный ман
 * https://habrahabr.ru/post/305400/ еще ман
+* https://habrahabr.ru/post/306998/ 15 вы должны знаек
 
 ### Виртуализация
 
