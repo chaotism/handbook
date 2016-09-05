@@ -213,6 +213,7 @@ socketio и sockjs
 
 #### elastic search
 * https://habrahabr.ru/post/280488/ основы
+* https://xakep.ru/2015/06/11/elasticsearch-tutorial/ основы
 
 ## ФРОНТ:
 * https://egghead.io/ ресурс с обучающими роликами на языке Шекспира
