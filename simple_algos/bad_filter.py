@@ -4,8 +4,8 @@ import logging
 import os
 import sys
 
-from ss.apps.v4application import load_schema, API_BASE_PATH
-from ss.common.utils import filter_dict_keys as old_filter_dict_keys, shift_dict, get_project_root_dir, \
+from apps import load_schema, API_BASE_PATH
+from common.utils import filter_dict_keys as old_filter_dict_keys, shift_dict, get_project_root_dir, \
     set_utf8_as_default_encoding
 from ss.customjsonschema import validate_schemas, resolve_schemas
 
