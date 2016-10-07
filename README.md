@@ -164,6 +164,7 @@ socketio и sockjs
 
 #### docker
 * http://eax.me/docker/ вводная, в кратце легче виртуалок, но ебля с адресами()
+* https://habrahabr.ru/company/oleg-bunin/blog/311830/ грабли докера
 * http://habrahabr.ru/post/253877/ понимая докер
 * http://habrahabr.ru/post/234829/ оптимизация образов (быть внимательным с весом образов при удалить добавить файлы)
 * http://habrahabr.ru/post/261415/ свой облачный сервис на ansible и docker swarm(удобно мониторить и управлять контейнерами)
