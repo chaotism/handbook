@@ -245,6 +245,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/175283/ 24 совета, про не накосячить
 * http://habrahabr.ru/post/249525/ ошибки в js 
 * http://myway-blog.ru/javascript-data-storage/ хранения данных на фронте session localstorage
+* https://habrahabr.ru/post/315466/ про реакт
 
 ### html и css:
 * https://habrahabr.ru/post/244929/ вопросы на собеседование
