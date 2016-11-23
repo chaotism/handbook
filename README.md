@@ -10,6 +10,7 @@
 * [книжки по сетевой безопасности](https://habrahabr.ru/company/mailru/blog/282700/)
 * [спискота книг по мнению mail.ru](http://habrahabr.ru/company/mailru/blog/265103/) 
 * [линукс доступно в слайдах](https://habrahabr.ru/company/first/blog/315754/)
+* [отладка линукс в слайдах](https://habrahabr.ru/company/first/blog/310164/)
 * [набор бесплатных видеокурсов от Mail.ru](https://habrahabr.ru/company/mailru/blog/280079/)
 * [краткая справка по bash](https://habrahabr.ru/post/47163/)
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
