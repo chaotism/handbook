@@ -283,6 +283,17 @@ socketio и sockjs
 ### Здесь пишем всячину, что не укладывается в предыдущие разделы.
 * [Архив книг, которые я читал или читаю, в основном на тему программирования](https://yadi.sk/d/bvjOpFR8prHAW) 
 
+### Бесполезная информация:
+#### Self-Assessment:
+* http://www.halogensoftware.com/blog/self-appraisal-examples-to-use-as-guidance-or-inspiration first guide
+* http://web.viapeople.com/viaPeople-blog/bid/97550/7-Steps-to-Writing-a-Winning-Self-Appraisal second guide
+* https://hbr.org/2013/03/how-to-write-the-dreaded-self-appraisal anti guide
+* https://www.tinypulse.com/blog/sk-useful-phrases-performance-reviews useful-phrases
+* http://ihateperformancereviews.com/2010/07/self-evaluation-performance-phrases-part-1/ useful-phrases-2
+* http://www.lessonly.com/blog/sample-self-evaluation-performance-review-phrases/ useful-template
+* http://www.henryfordconnect.com/documents/humanresources/ohrd/writing_your_performance_self-_review_tip_sheet.pdf useful-template-pdf
+* http://www.businessnewsdaily.com/5379-writing-self-assessment.html four tips
+* https://www.shrm.org/resourcesandtools/tools-and-samples/hr-forms/pages/performanceappraisal_completedappraisalform.aspx fish
 
 
 ## Вопросы по собеседованиям:
