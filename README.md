@@ -225,6 +225,7 @@ socketio и sockjs
 * https://habrahabr.ru/company/it-grad/blog/275673/ разные ресурсы на тему фронта
 * https://habrahabr.ru/post/245991/ статья про webpack
 * https://learn.javascript.ru/screencast/webpack скринкаст про webpack
+* https://habrahabr.ru/company/ruvds/blog/316132/ особенности отладчика гугла
 
 ### производительность:
 * http://habrahabr.ru/post/264639/  about:tracking мониторим производительность в chorme
