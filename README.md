@@ -178,6 +178,7 @@ socketio и sockjs
 * https://habrahabr.ru/post/277699/ тезисы для битвы софистов в бою "докер это круто"
 * https://habrahabr.ru/company/centosadmin/blog/278939/ набор юного админа докер платформы
 * https://habrahabr.ru/post/280786/ статья про микросервисы
+* https://habrahabr.ru/post/316054/ докер + гитлаб + фабрик, разворачиваем джанго
 
 #### lxc
 
