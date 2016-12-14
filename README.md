@@ -74,7 +74,7 @@
 * http://habrahabr.ru/post/122188/ средняя программка
 * http://www.ibm.com/developerworks/ru/library/mo-python-sl4a-1/
 
-####kivy:
+#### kivy:
 * https://habrahabr.ru/post/149898/  приложение для фотографий на kivy
 * https://habrahabr.ru/post/300960/ полноценное приложение на kivy
 * https://habrahabr.ru/post/301776/ tracktor Сборщик под kivy
@@ -100,6 +100,7 @@ socketio и sockjs
 * https://habrahabr.ru/post/270709/ Python 3.5 async await yield from и движок motor по mongodb
 * https://habrahabr.ru/post/300942/ полноценный чат на aiohttp с мидлварами и моделями
 * https://habrahabr.ru/post/242541/ написание framework на asyncio, aiohttp и мысли про Python3 часть первая
+* https://pythoness.pp.ua/catalog/article/veb-pauk-s-ispolzovaniem-aiohttp-i-asyncio/ паучок на asyncio
 
 ### Greenlets
 * http://www.slideshare.net/andreypopp/report-4114331 презентация gevent
