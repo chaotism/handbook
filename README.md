@@ -2,6 +2,7 @@
 
 ### Общее:
 
+* [fifty typical commands of linux](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 * [cложность алгоритмов](https://habrahabr.ru/post/188010/)
 * [sicp in python](https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html)
 * [vim](https://habrahabr.ru/post/303600/)
