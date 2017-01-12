@@ -231,6 +231,7 @@ socketio и sockjs
 * https://habrahabr.ru/company/ruvds/blog/316132/ особенности отладчика гугла
 
 ### производительность:
+* http://www.brendangregg.com/linuxperf.html профилируем линукс
 * http://habrahabr.ru/post/264639/  about:tracking мониторим производительность в chorme
 * http://habrahabr.ru/company/paysto/blog/254619/ основные ловушки при использование кэша в html5 приложениях
 * http://habrahabr.ru/post/137318/ оптимизация js
