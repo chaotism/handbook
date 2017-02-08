@@ -2,6 +2,7 @@
 
 ### Общее:
 
+* [Багаж в гугл](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf)
 * [fifty typical commands of linux](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 * [cложность алгоритмов](https://habrahabr.ru/post/188010/)
 * [sicp in python](https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html)
@@ -240,6 +241,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/137318/ оптимизация js
 
 ### javasrcipt:
+* https://github.com/MostlyAdequate/mostly-adequate-guide функциональщина
 * https://habrahabr.ru/post/231071/ вопросы для собеседований
 * https://habrahabr.ru/post/253033/ более свежие
 * http://learn.javascript.ru/ учебник онлайн
