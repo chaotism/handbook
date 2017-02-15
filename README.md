@@ -4,6 +4,7 @@
 
 * [Багаж в гугл](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf)
 * [fifty typical commands of linux](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
+* [another top commands for linux](http://www.pixelbeat.org/cmdline_ru_RU.html)
 * [cложность алгоритмов](https://habrahabr.ru/post/188010/)
 * [sicp in python](https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html)
 * [vim](https://habrahabr.ru/post/303600/)
