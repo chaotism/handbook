@@ -41,7 +41,7 @@
 * yolk замена pip
 * wheels замена eggs 
 * pypy — добавь скорости
-* greenlet vs async await
+* [greenlet vs async await](http://www.getoffmalawn.com/blog/playing-with-asyncio)
  
 * [pudb дебаггер](http://adw0rd.com/2012/3/24/python-django-pudb/)
 * [питон на хабре сборник ссылок](http://habrahabr.ru/post/205944/) 
