@@ -1,7 +1,7 @@
 # Перечень статей для самообразования/заглянуть обновить данные
 
 ### Общее:
-
+* [просто генератор ssl](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 * [Багаж в гугл](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf)
 * [fifty typical commands of linux](http://www.thegeekstuff.com/2010/11/50-linux-commands/)
 * [another top commands for linux](http://www.pixelbeat.org/cmdline_ru_RU.html)
