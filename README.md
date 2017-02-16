@@ -291,6 +291,7 @@ socketio и sockjs
 ## Дополнительно:
 ### Здесь пишем всячину, что не укладывается в предыдущие разделы.
 * [Архив книг, которые я читал или читаю, в основном на тему программирования](https://yadi.sk/d/bvjOpFR8prHAW) 
+* [еще один архив](https://drive.google.com/drive/u/1/folders/0Bza554hp3UHyMkdoVTZld3RCZW8)
 
 ### Бесполезная информация:
 #### Self-Assessment:
