@@ -1,6 +1,7 @@
 # Перечень статей для самообразования/заглянуть обновить данные
 
 ### Общее:
+* [coverage.py](https://habrahabr.ru/company/pt/blog/323294/)
 * [собрание советов для больших сервисов](https://12factor.net/ru/)
 * [просто генератор ssl](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
 * [Багаж в гугл](http://larrr.com/wp-content/uploads/2016/10/InterviewPreparationGuide.pdf)
