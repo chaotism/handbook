@@ -1,6 +1,7 @@
 # Перечень статей для самообразования/заглянуть обновить данные
 
 ### Общее:
+* [софт для ленивых для проверки работы сервисов на линухе](https://habrahabr.ru/post/323472/)
 * [coverage.py](https://habrahabr.ru/company/pt/blog/323294/)
 * [собрание советов для больших сервисов](https://12factor.net/ru/)
 * [просто генератор ssl](https://mozilla.github.io/server-side-tls/ssl-config-generator/)
