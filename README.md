@@ -37,6 +37,7 @@
 * [Бесплатные сервисы](https://habrahabr.ru/post/271279/)
 * [Мониторим облака](https://habrahabr.ru/company/it-grad/blog/281801/)
 * [Книги про мыслим нестандартно](https://habrahabr.ru/company/smartprogress/blog/315510/)
+* [Ещё раз смотрим что тупит в вашем web](https://habrahabr.ru/post/329478/)
 
 ## БЭКЕНД PYTHON:
 
