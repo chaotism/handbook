@@ -103,13 +103,14 @@ socketio и sockjs
 * https://habrahabr.ru/post/248507/ tornado + websockets
 * https://habrahabr.ru/post/149592/ грабли при внедрении websokets 
 
-### Заметки по торнадо и aiohttp:
+### Заметки по торнадо и aiohttp(asyncio):
 * https://habrahabr.ru/post/252575/ многопользовательский шутаган на asyncio
 * https://habrahabr.ru/post/230607/ Хостинг картинок
 * https://habrahabr.ru/post/270709/ Python 3.5 async await yield from и движок motor по mongodb
 * https://habrahabr.ru/post/300942/ полноценный чат на aiohttp с мидлварами и моделями
 * https://habrahabr.ru/post/242541/ написание framework на asyncio, aiohttp и мысли про Python3 часть первая
 * https://pythoness.pp.ua/catalog/article/veb-pauk-s-ispolzovaniem-aiohttp-i-asyncio/ паучок на asyncio
+* https://habrahabr.ru/post/314606/ заметки по asyncio
 
 ### Greenlets
 * http://www.slideshare.net/andreypopp/report-4114331 презентация gevent
