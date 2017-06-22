@@ -110,6 +110,7 @@ socketio и sockjs
 * https://habrahabr.ru/post/300942/ полноценный чат на aiohttp с мидлварами и моделями
 * https://habrahabr.ru/post/242541/ написание framework на asyncio, aiohttp и мысли про Python3 часть первая
 * https://pythoness.pp.ua/catalog/article/veb-pauk-s-ispolzovaniem-aiohttp-i-asyncio/ паучок на asyncio
+* http://itscreen.tk/blog/25-python-3-intro-v-asyncio/ гайдик
 * https://habrahabr.ru/post/314606/ заметки по asyncio
 
 ### Greenlets
