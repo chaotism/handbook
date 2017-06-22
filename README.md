@@ -21,6 +21,7 @@
 * [набор бесплатных видеокурсов от Mail.ru](https://habrahabr.ru/company/mailru/blog/280079/)
 * [краткая справка по bash](https://habrahabr.ru/post/47163/)
 * [кодим на bash](http://www.opennet.ru/docs/RUS/bash_scripting_guide/)
+* [кодим на bash habra версия](https://habrahabr.ru/company/ruvds/blog/325522/)
 * [настраиваем баш](https://habrahabr.ru/post/31326/)
 * [упрощаем разработку - разные тулзы на python](http://slides.com/gr1n/pythonforlazy)
 * [Куча, хэш, списки](https://habrahabr.ru/post/263765) 
