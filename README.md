@@ -398,6 +398,7 @@ socketio и sockjs
 - Какие есть способы обхода дерева?
 
 ### 7. Прочее
+- [Задачи Js](https://habrahabr.ru/company/ruvds/blog/334538/)
 - Что такое doctype в html?
 - Что такое meta в html?
 - Что значит переменная g в Flask?
