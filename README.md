@@ -231,7 +231,7 @@ socketio и sockjs
 * https://habrahabr.ru/post/271487/ под капотом redis
 * http://habrahabr.ru/post/204354/ шпаргалка по redis
 #### mongodb
-
+* https://habrahabr.ru/post/335698/ частые проблемы
 #### elastic search
 * https://habrahabr.ru/post/280488/ основы
 * https://xakep.ru/2015/06/11/elasticsearch-tutorial/ основы
