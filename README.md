@@ -251,6 +251,7 @@ socketio и sockjs
 * http://habrahabr.ru/post/137318/ оптимизация js
 
 ### javasrcipt:
+* https://habrahabr.ru/company/ruvds/blog/337042/ устройство движка js
 * https://github.com/MostlyAdequate/mostly-adequate-guide функциональщина
 * https://habrahabr.ru/post/231071/ вопросы для собеседований
 * https://habrahabr.ru/post/253033/ более свежие
