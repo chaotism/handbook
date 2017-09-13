@@ -49,7 +49,7 @@
 * wheels замена eggs 
 * pypy — добавь скорости
 * [greenlet vs async await](http://www.getoffmalawn.com/blog/playing-with-asyncio)
- 
+* [стреляем по ногам в python] (https://habrahabr.ru/company/mailru/blog/337364/)
 * [pudb дебаггер](http://adw0rd.com/2012/3/24/python-django-pudb/)
 * [питон на хабре сборник ссылок](http://habrahabr.ru/post/205944/) 
 * [грабли и уловки python](http://idzaaus.org/static/files/articles/Python_Tips,_Tricks,_and Hacks_(rus).pdf) 
