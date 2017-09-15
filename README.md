@@ -141,6 +141,17 @@ socketio и sockjs
 * http://www.django-cms.org/en/
 * http://oscarcommerce.com/
 
+## CI
+
+### ТFS - пока пусто
+### Jenkins
+* [дженкинс гитлаб и ios](https://livetyping.com/ru/blog/ios-ci)
+### GITLAB:
+* [Вводная](https://habrahabr.ru/company/softmart/blog/309380/)
+* [Еще вводная](https://habrahabr.ru/company/softmart/blog/310502/)
+* [Пайплайн ч1](https://habrahabr.ru/company/flant/blog/332712/)
+* [Пайплайн ч2](https://habrahabr.ru/company/flant/blog/332842/)
+* [Альманах Breaking Build](https://blog.bithouse.pro/archives/1503)
 
 ## БЭКЕНД НА GO:
 
