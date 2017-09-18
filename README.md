@@ -2,6 +2,8 @@
 
 ### Общее:
 * [задачки подумать](https://tproger.ru/articles/problems/)
+* [про фп begginer](https://habrahabr.ru/post/337880/)
+* [про фп go deeper](http://fprog.ru/2009/issue3/eugene-kirpichov-elements-of-functional-languages/)
 * [шпаргалки по AI](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [git один из вариантов решения сложных merge](https://habrahabr.ru/post/323234/)
 * [софт для ленивых для проверки работы сервисов на линухе](https://habrahabr.ru/post/323472/)
