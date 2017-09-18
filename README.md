@@ -1,6 +1,7 @@
 # Перечень статей для самообразования/заглянуть обновить данные
 
 ### Общее:
+* [задачки подумать](https://tproger.ru/articles/problems/)
 * [шпаргалки по AI](https://becominghuman.ai/cheat-sheets-for-ai-neural-networks-machine-learning-deep-learning-big-data-678c51b4b463)
 * [git один из вариантов решения сложных merge](https://habrahabr.ru/post/323234/)
 * [софт для ленивых для проверки работы сервисов на линухе](https://habrahabr.ru/post/323472/)
