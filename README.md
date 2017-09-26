@@ -150,6 +150,7 @@ socketio и sockjs
 ### Jenkins
 * [дженкинс гитлаб и ios](https://livetyping.com/ru/blog/ios-ci)
 ### GITLAB:
+* [Установка](https://habrahabr.ru/company/southbridge/blog/306596/)
 * [Вводная](https://habrahabr.ru/company/softmart/blog/309380/)
 * [Еще вводная](https://habrahabr.ru/company/softmart/blog/310502/)
 * [Пайплайн ч1](https://habrahabr.ru/company/flant/blog/332712/)
