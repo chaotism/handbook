@@ -16,6 +16,7 @@
 * [cложность алгоритмов](https://habrahabr.ru/post/188010/)
 * [sicp in python](https://wizardforcel.gitbooks.io/sicp-in-python/content/1.html)
 * [vim](https://habrahabr.ru/post/303600/)
+* [vim2](https://habrahabr.ru/company/mailru/blog/340740/)
 * [emac](https://habrahabr.ru/post/303600/)
 * [книжки по облачным техноологиям](https://habrahabr.ru/company/it-grad/blog/283400/)
 * [книжки по сетевой безопасности](https://habrahabr.ru/company/mailru/blog/282700/)
