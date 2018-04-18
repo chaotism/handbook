@@ -1,15 +1,13 @@
 def reverse_chain(chain):
-    if chain == None or chain.get('next') == None:
-        return chain
-    left, next = chain, chain['next'].get('next')
-    chain = chain['next']
-    left['next'] = None
-
+    import copy
+    chain = copy.deepcopy(chain)
+    prev = None
     while True:
-        chain['next'] = left
+        next = chain.get('next')
+        chain['next'] = prev
         if next == None:
             break
-        left, chain, next = chain, next, next.get('next')
+        prev, chain = chain, next
     return chain
 
 def create_chain(len):
