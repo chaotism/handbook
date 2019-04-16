@@ -1,14 +1,14 @@
-def reverse_chain(chain):
+def reverse_chain(chain_ring):
     import copy
-    chain = copy.deepcopy(chain)
-    prev = None
+    chain_ring = copy.deepcopy(chain_ring)
+    prev_ring = None
     while True:
-        next = chain.get('next')
-        chain['next'] = prev
-        if next == None:
+        next_ring = chain_ring.get('next')
+        chain_ring['next'] = prev_ring
+        if next_ring == None:
             break
-        prev, chain = chain, next
-    return chain
+        prev_ring, chain_ring = chain_ring, next_ring
+    return chain_ring
 
 def create_chain(len):
     node = {
